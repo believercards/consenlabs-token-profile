@@ -10,7 +10,7 @@
 "decimals": 18 ,
 "website": "https://believercards.com",
 "logo": {
-    "src": "src/icons/logo.png.png",
+    "src": "src/icons/logo.png",
     "width": "8192",
     "height": "8192",
 },
