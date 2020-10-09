@@ -1,26 +1,30 @@
 {
-  "symbol": "BLVR",
-  "address": "0xd1ef9a7310d0806855c672288ef5a1bab62cef33",
-  "overview": {
-  "en": "BLVR(TokenFans Token) is the membership badge for TokenFans Club, a user-based community managed by ConsenLabs. It is non-divisible, not tradeable and issued only through official channels.",
-    "zh": "TFT 是 ConsenLabs 旗下用户社群品牌「TokenFans 通粉俱乐部」的会员勋章，目前仅由官方渠道发放，不可分割，不支持交易。"
-  },
-  "email": "info@believercards.com",
-  "website": "https://believercards.com/",
-  "whitepaper": "https://www.believercards.com/informative/WhitePaper%20Believer.pdf",
-  "state": "NORMAL",
-  "published_on": "2019-08-20",
-  "initial_price":{
-        "ETH":"0.026 ETH",
-        "USD":"1.0 USD",
-        "BTC":"0.00011 BTC"
-  },
-  "links": {
-    "twitter": "https://twitter.com/believercards",
-    "telegram": "https://t.me/believercard",
-    "reddit": "https://www.reddit.com/r/believercards/",
-    "github": "https://github.com/believercards",
+"symbol": "logo.png",
+
+"name": "Believer",
+
+"type": "ERC20",
+
+"address": "0xd1ef9a7310d0806855c672288ef5a1bab62cef33
+",
+"decimals": 18 ,
+"website": "https://believercards.com",
+"logo": {
+    "src": "src/icons/logo.png.png",
+    "width": "8192",
+    "height": "8192",
+},
+"support": {
+    "email": "info@believercards.com",
+    "url": "https://believercards.com"
+},
+"social": {
     "facebook": "https://www.facebook.com/believercards",
-  }
+    "github": "https://github.com/believercards",
+    "instagram": "https://www.instagram.com/believercards/",
+    "linkedin": "https://www.linkedin.com/believercards/",
+    "reddit": "https://www.reddit.com/user/believercards",
+    "telegram": "https://t.me/believercards",
+    "twitter": "https://twitter.com/believercards",
 }
 
